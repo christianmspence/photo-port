@@ -10,6 +10,7 @@ describe('PhotoList is rendering', () => {
     render(<PhotoList />);
   });
   
+  // eslint-disable-next-line jest/no-identical-title
   it('renders', () => {
     const { asFragment } = render(<PhotoList />)
     expect(asFragment()).toMatchSnapshot()
