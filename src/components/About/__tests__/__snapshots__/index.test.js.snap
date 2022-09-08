@@ -16,6 +16,12 @@ exports[`About component matches snapshot DOM node structure 1`] = `
       src="cover-image.jpg"
       style="width: 100%;"
     />
+    <p>
+      Lorem ipsum odor amet, consectetuer adipiscing elit. Elementum elementum sagittis odio conubia condimentum. Suscipit condimentum lorem sit egestas nullam dapibus habitant consectetur. Nec nostra sapien elit risus torquent. Tortor cubilia tincidunt aliquet maecenas bibendum ut. Habitant ornare est porta, senectus consequat vivamus. Egestas natoque blandit senectus bibendum per ornare. Tortor fermentum scelerisque condimentum eros odio vitae; massa lectus. Feugiat senectus taciti eleifend erat fermentum cursus.
+    </p>
+    <p>
+      Duis malesuada sem lorem convallis nisl pretium porta facilisis. Arcu porttitor tincidunt lacus pulvinar ut penatibus senectus laoreet. Varius maximus parturient fusce nisl, nibh a libero. Morbi non porta elit imperdiet habitant taciti mi. Sociosqu imperdiet conubia conubia purus aliquam risus vestibulum. Volutpat cursus volutpat orci nibh nulla lectus arcu sollicitudin. Suscipit sociosqu volutpat magna suspendisse sollicitudin condimentum senectus aliquam.
+    </p>
   </section>
 </DocumentFragment>
 `;
