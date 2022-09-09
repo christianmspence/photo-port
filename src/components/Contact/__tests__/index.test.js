@@ -20,10 +20,13 @@ describe('About component', () => {
 
 it('renders', () => {
     const { getByTestId } = render(<ContactForm />)
+    // eslint-disable-next-line testing-library/prefer-screen-queries
     expect(getByTestId('h1tag')).toHaveTextContent('Contact Me')
 })
 
+// eslint-disable-next-line jest/no-identical-title
 it('renders', () => {
     const { getByTestId } = render(<ContactForm />)
+    // eslint-disable-next-line testing-library/prefer-screen-queries
     expect(getByTestId('button')).toHaveTextContent('Submit')
 })
